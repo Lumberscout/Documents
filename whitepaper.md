@@ -223,13 +223,18 @@ TLY is distributed immediately once ETH is sent to the crowdsale address. Partic
 
 **Funds Allocation**
 
-Most of the funds are allocated to further development of the app: either on core development or on user experience development. Lumberscout fund allocation is based on the following:
+Most of the funds will be allocated for the further development of the app: either on core development or on user experience. Lumberscout fund allocation is based on the following:
 
 30% on core development
+
 20% on user experience development
+
 10% on management & legal
+
 30% on promotions & marketing
+
 10% on unexpected costs
+
 Fund allocation is subject to change. Lumberscout will use best management practices and allocate funds at its own discretion.
 
 **Token Sale Entity**
