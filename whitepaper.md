@@ -247,7 +247,7 @@ Developers and investors are encouraged to connect with us on Telegram!: http://
 
 **Further Updates**
 
-Further updates on TLY Token Sale and app updates are published on https://Lumberscout.io
+Further updates on the TLY Token Sale and app will be published on https://Lumberscout.io
 
 Website: https://Lumberscout.io
 
