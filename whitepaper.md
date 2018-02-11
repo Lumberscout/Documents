@@ -1,4 +1,4 @@
-Lumberscout: Forest Products Application
+# Lumberscout: Forest Products Application
 20 December 2017
 
 Abstract: Description of the Lumberscout platform, commodity tokenisation and future use cases.
