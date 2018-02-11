@@ -205,15 +205,15 @@ Utility function 6: Forestry certification program: Manufacturers that pay for t
 
 The total supply of TLY is limited to 1 300 000 000 TLY. Of the total supply, 300 000 000 TLY will be sent to a development fund and locked for a period of two years. TLY unsold during initial crowdsales will be transferred to a holding account and held indefinitely or used in bonus crowdsale rounds if required.
 
-Pre-sale starts on 15 February 2018. A maximum of 91 000 000 TLY (7% of total) will be offered for sale at 30 000 TLY per 1 ETH
+Pre-sale starts on 15 February 2018. A maximum of 70 000 000 TLY (7% of total) will be offered for sale at 30 000 TLY per 1 ETH
 
 Pre-sale ends on ends on 25 February 2018.
 
-Preffered sale starts on 01 March 2018. A maximum of 91 000 000 TLY (7% of total) will be offered for sale at 25 375 TLY per 1 ETH
+Preffered sale starts on 01 March 2018. A maximum of 70 000 000 TLY (7% of total) will be offered for sale at 25 375 TLY per 1 ETH
 
 Preffered sale ends on 15 March 2018.
 
-Main sale starts on 20 March 2018 and ends on 20 May 2018. 21 375 TLY will be offered per 1 ETH.
+Main sale starts on 20 March 2018 and ends on 20 May 2018. 20 000 TLY will be offered per 1 ETH.
 
 Purchase Price
 
