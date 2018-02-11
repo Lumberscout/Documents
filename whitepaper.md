@@ -65,7 +65,7 @@ Lumberscout bidding functionality will be expanded from industrial commodities l
 
 **Currency Exchange Risk Management (FIAT pegging) and Atomic Swaps**
 
-Exchange risk exposure is potentially disruptive if a borrower borrows 1 ETH when the ETH price is at USD 15000, but then rises to 30000 or falls back to 1000. Such a situation can be solved by providing FIAT based loans where the loan amount is represented in FIAT currency, even though the transaction is conducted in BTC. FIAT pegging also creates wider opportunities for lending and commodity investment purposes.
+Exchange risk exposure is potentially disruptive if a borrower borrows 1 ETH when the ETH price is at USD 15000, but then rises to 30000 or falls back to 1000. Such a situation can be solved by providing FIAT based loans where the loan amount is represented in FIAT currency, even though the transaction is conducted in ETH. FIAT pegging also creates wider opportunities for lending and commodity investment purposes.
 
 **Artificial Intelligence, Big Data Market Analytics, Credit Risk Forcasting**
 
