@@ -13,6 +13,8 @@ Lumberscout is prohibited from selling ICO tokens to investors from the Republic
 
 Lumberscout is prohibited from selling TLY to South Korean investors and will similarly screen out South Korean ISP’s from attempting to access the token sale.
 
+---------------------------
+
 Summary of What We Are Developing
 
 Lumberscout will use decentralized technologies to radically change the forest products sector; providing a safe platform for industrial producers, industrial consumers and industrial lenders to conduct business. Lumberscout’s implementation of distributed ledgers, commodity certifications, supply chain verification and efficient sales architecture will fundamentally change how forest products are financed, traded and certified. By harnessing disruptive technologies and establishing verification and governance frameworks, Lumberscout makes trustless, meritocratic consensus mechanisms possible on a global scale. The first steps towards these ends started with the creation of the smartphone Lumberscout app. Integrations of the functionalities outlined in the white paper will be integrated into subsequent version releases.
