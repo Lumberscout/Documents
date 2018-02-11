@@ -209,9 +209,9 @@ Pre-sale starts on 15 February 2018. A maximum of 70 000 000 TLY (7% of total) w
 
 Pre-sale ends on ends on 25 February 2018.
 
-Preffered sale starts on 01 March 2018. A maximum of 70 000 000 TLY (7% of total) will be offered for sale at 25 375 TLY per 1 ETH
+Preferred sale starts on 01 March 2018. A maximum of 70 000 000 TLY (7% of total) will be offered for sale at 25 375 TLY per 1 ETH
 
-Preffered sale ends on 15 March 2018.
+Preferred sale ends on 15 March 2018.
 
 Main sale starts on 20 March 2018 and ends on 20 May 2018. 20 000 TLY will be offered per 1 ETH.
 
