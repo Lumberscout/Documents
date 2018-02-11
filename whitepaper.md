@@ -215,10 +215,6 @@ Preferred sale ends on 15 March 2018.
 
 Main sale starts on 20 March 2018 and ends on 20 May 2018. 20 000 TLY will be offered per 1 ETH.
 
-Purchase Price
-
-Endorsing early purchase. We want to endorse token buyers that are among the first by rewarding them with bonus tokens.
-
 Minimum amount to participate: 0.5 ETH.
 
 **Token Distribution**
