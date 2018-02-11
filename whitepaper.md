@@ -11,7 +11,7 @@ DISCLAIMER: This White Paper is intended for distribution solely for information
 
 Lumberscout is prohibited from selling ICO tokens to investors from the Republic of China (except for Hong Kong & Macau) or the United States. It is prohibited for Chinese or U.S. Citizens to purchase these tokens and Chinese/U.S. ISP’s will be screened from accessing the Lumberscout TLY token sale.
 
-Lumberscout is prohibited from selling TLY to South Korean investors and will similarly screen out South Korean ISP’s from attempting to access the token sale.
+Lumberscout is prohibited from selling TLY to North & South Korean investors and will similarly screen out Korean ISP’s from attempting to access the token sale.
 
 ---------------------------
 
