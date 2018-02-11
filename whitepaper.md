@@ -242,7 +242,7 @@ Tammetoru Kaubandus OÜ - Reg: 12264023 - Narva mnt 5, Tallinn 10117, Estonia.
 
 Questions & assistance: support@lumberscout.com
 
-Developers and investors are encouraged to connect with us on Slack: http://bit.ly/2r6wgYW
+Developers and investors are encouraged to connect with us on Telegram!: http://bit.ly/2BRok2w
 
 **Further Updates**
 
