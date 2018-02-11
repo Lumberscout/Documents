@@ -37,7 +37,7 @@ The Forest Products industry is typically cash strapped to the point that there 
 
 **Empowering Crypto Lenders**
 
-By providing secured assets with the use of DAK tokens as collateral to major crypto lenders like SALT, ETHlend, et al. — as well as private lenders — Lumberscout’s system of verification will be a pivotal actor in the tokenised collateral chain. Forest Products manufacturers that adopt Lumberscout’s verification program will gain access to heretofore impossible liquidity. For example, TALLY token holders can exchange them for commodity tokens on the platform, but are not required to do so. They can be held as collateral. Instead, the applicant can pledge his tokens to receive funds. In this way, commodity tokens can be used to secure loans and can be sold off if required.
+By providing secured assets with the use of ERC20 tokens as collateral to major crypto lenders like SALT, ETHlend, et al. — as well as private lenders — Lumberscout’s system of verification will be a pivotal actor in the tokenised collateral chain. Forest Products manufacturers that adopt Lumberscout’s verification program will gain access to heretofore impossible liquidity. For example, TALLY token holders can exchange them for commodity tokens on the platform, but are not required to do so. They can be held as collateral. Instead, the applicant can pledge his tokens to receive funds. In this way, commodity tokens can be used to secure loans and can be sold off if required.
 
 **Increasing Sales Efficiency**
 
@@ -65,7 +65,7 @@ Lumberscout bidding functionality will be expanded from industrial commodities l
 
 **Currency Exchange Risk Management (FIAT pegging) and Atomic Swaps**
 
-Exchange risk exposure is potentially disruptive if a borrower borrows 1 ETH when the ETH price is at USD 15000, but then rises to 30000 or crashes back down to 1000. Such a situation can be solved by providing FIAT based loans where the loan amount is represented in FIAT currency, even though the transaction is conducted in BTC. FIAT pegging also creates wider opportunities for lending and commodity investment purposes.
+Exchange risk exposure is potentially disruptive if a borrower borrows 1 ETH when the ETH price is at USD 15000, but then rises to 30000 or falls back to 1000. Such a situation can be solved by providing FIAT based loans where the loan amount is represented in FIAT currency, even though the transaction is conducted in BTC. FIAT pegging also creates wider opportunities for lending and commodity investment purposes.
 
 **Artificial Intelligence, Big Data Market Analytics, Credit Risk Forcasting**
 
