@@ -13,7 +13,7 @@ DISCLAIMER: This White Paper is intended for distribution solely for information
 
 **Update July 5th 2018**
 
-Changes in crypto-culture since the publishing of the original whitepaper in December 2017 have led to a revisions in Lumberscout's fundraising strategy, roadmap and DAO. 
+Evolutions in crypto-culture since the publishing of the original whitepaper in December 2017 have led to revisions in Lumberscout's fundraising strategy, roadmap and DAO. 
 
 1,300,000 ERC20 TALLY were sent to two addresses. 1,000,000,000 was sent to the foundation's address and 300,000 to a time-locked development address. 10 TLY were sent to Komodo's Etomic developers and 10 TLY were sent to the Ethex dev team for testing. At some point ERC20 TALLY will be listed on a DEX and sold with community approval at market rates by the foundation for fundraising purposes or burned. All ERC20 TLY transactions can be followed here: https://etherscan.io/token/0x9a614a75ee8afaee643109061563d6145bdd701c
 
