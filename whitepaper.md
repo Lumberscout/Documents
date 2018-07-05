@@ -1,12 +1,7 @@
 # Lumberscout: Forest Products Application
-20 December 2017
 
 Abstract: Description of the Lumberscout platform, commodity tokenisation and future use cases.
-
-Copyright 2017 Lumberscout
-
-Without explicit permission, anyone has the right to use, reproduce or distribute any material in this white paper for non-commercial purposes and educational use, provided that the original source and the applicable copyright notice are cited.
-
+---------------------------
 DISCLAIMER: This White Paper is intended for distribution solely for information purposes. Lumberscout does not guarantee the accuracy of the conclusions and statements reached in this white paper. Moreover, this white paper is provided "as is" with no representations and warranties, express or implied, whatsoever, including, but not limited to: (i) warranties of merchantability, fitness for a particular purpose, title or non-infringement; (ii) that the contents of this white paper are free from error or suitable for any purpose; and (iii) that such contents will not infringe third-party rights. All warranties are expressly disclaimed. Lumberscout and its affiliates expressly disclaim all liability for and damages of any kind (direct or indirect, including loss of profit) arising out of the use, reference to, or reliance on any information contained in this white paper, even if advised of the possibility of such damages. Under no circumstances Lumberscout or its affiliates will be liable to any person, entity, partners, partner’s customer or end-users for any consequential, incidental, direct, indirect, special or punitive damages, including without limitation damages for lost profits, revenues, lost business or loss of use of products whether or not Lumberscout advised in this white paper or any of the content contained herein, that such damages will or may occur, and whether such damages are claimed based on breach of contract, negligence, strict liability in tort or any other legal or equitable theory. No action, regardless of form, arising out of this white paper may be brought against Lumberscout.
 
 ---------------------------
