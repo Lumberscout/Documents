@@ -9,9 +9,24 @@ Without explicit permission, anyone has the right to use, reproduce or distribut
 
 DISCLAIMER: This White Paper is intended for distribution solely for information purposes. Lumberscout does not guarantee the accuracy of the conclusions and statements reached in this white paper. Moreover, this white paper is provided "as is" with no representations and warranties, express or implied, whatsoever, including, but not limited to: (i) warranties of merchantability, fitness for a particular purpose, title or non-infringement; (ii) that the contents of this white paper are free from error or suitable for any purpose; and (iii) that such contents will not infringe third-party rights. All warranties are expressly disclaimed. Lumberscout and its affiliates expressly disclaim all liability for and damages of any kind (direct or indirect, including loss of profit) arising out of the use, reference to, or reliance on any information contained in this white paper, even if advised of the possibility of such damages. Under no circumstances Lumberscout or its affiliates will be liable to any person, entity, partners, partner’s customer or end-users for any consequential, incidental, direct, indirect, special or punitive damages, including without limitation damages for lost profits, revenues, lost business or loss of use of products whether or not Lumberscout advised in this white paper or any of the content contained herein, that such damages will or may occur, and whether such damages are claimed based on breach of contract, negligence, strict liability in tort or any other legal or equitable theory. No action, regardless of form, arising out of this white paper may be brought against Lumberscout.
 
-Lumberscout is prohibited from selling ICO tokens to investors from North Korea, the Republic of China (except for Hong Kong & Macau) or the United States. It is prohibited for Chinese, North Korean or U.S. Citizens to purchase these tokens and Chinese, North Korean and U.S. ISP’s will be screened from accessing the Lumberscout TLY token sale. Additionally, South Korean investors are discouraged from participation in ICOs until proper legal frameworks are in place. 
-
 ---------------------------
+
+**Update July 5th 2018**
+
+Changes in crypto-culture since the publishing of the original whitepaper in December 2017 have led to a revisions in Lumberscout's fundraising strategy, roadmap and DAO. 1,300,000 ERC20 TALLY were created and sent to two addresses. 1,000,000,000 was sent to the foundation's address and 300,000 to a time-locked development address. 10 TLY were sent to Komodo's Etomic developers and 10 TLY were sent to Ethex developer JP Walton for testing. At some point in the future ERC20 TALLY will be listed on a DEX and sold with community approval at market rates by the foundation for fundraising purposes or burned. All ERC20 TLY transactions can be followed here: https://etherscan.io/token/0x9a614a75ee8afaee643109061563d6145bdd701c
+
+Without adequate funds the Lumberscout project cannot move forward, and seeing that the traditional ICO route did not attain the desired results, the new strategy is to create a CPU friendly, minable, dPoW secured, masternode assetchain based on the verus algorythm that will immediately be tradable in the barterDEX ecosystem. There will be no premine. All coins will be mined into existence. The Lumberscout team will then ask miners to donate TLY back to Lumberscout projects. This will ensure that TLY holders will always have a say on what is funded. Additionaly Proof of Stake can be established with voting mechanisms where the number of TLY held by an individual investor will be reflected in his number of votes on the platform. 
+
+The total number of TLY will be
+
+
+
+
+
+
+
+
+
 
 **Summary of What We Are Developing**
 
