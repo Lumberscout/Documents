@@ -17,15 +17,18 @@ Changes in crypto-culture since the publishing of the original whitepaper in Dec
 
 Without adequate funds the Lumberscout project cannot move forward, and seeing that the traditional ICO route did not attain the desired results, the new strategy is to create a CPU friendly, minable, dPoW secured, masternode assetchain based on the verus algorythm that will immediately be tradable in the barterDEX ecosystem. There will be no premine. All coins will be mined into existence. The Lumberscout team will then ask miners to donate TLY back to Lumberscout projects. This will ensure that TLY holders will always have a say on what is funded. Additionaly Proof of Stake can be established with voting mechanisms where the number of TLY held by an individual investor will be reflected in his number of votes on the platform. 
 
-The total number of TLY will be
+The total number of TLY mined in the following way:
+1 week smooth linear ramp from 0 to 384, then halving every month (43,200 blocks)
+1st week:  Block 1 -> 10080 = 1,935,360 TLY
+1st month: Block 10080 -> 53280 = 384 TLY = 16,588,800 TLY
+2nd month: Block 53280 -> 96480 = 192 TLY = 8,294,400 TLY
+3rd month: Block 96480 -> 139680 = 96 TLY = 4,147,200 TLY
+4th month: Block 139680 -> 182880 = 48 TLY = 2,073,600 TLY
+5th month: Block 182880 -> 226080 = 24 TLY = 1,036,800 TLY
+Block 226080 onward for another 2 years = 24 TLY
+All rewards equal or over 192 TLY are time locked to mature at a random block between 129,600 and 1,181,520
 
-
-
-
-
-
-
-
+To further secure and incentivise the system, 40% of the network PoW will be done by masternode operators holding a stake of 3500 TLY.
 
 
 **Summary of What We Are Developing**
@@ -140,7 +143,6 @@ Lumberscout will follow a decentralized governance model similar to DAO. It will
 
 Towards this purpose a Swiss Foundation or Swiss LLC will be created that connects DAO governance to Lumberscout. Such connection might not be ideal when we are aiming for complete decentralization. However, such a layer is vital for protecting our users from unforeseeable regulatory hazards.
 
-Roadmap to consensus. The final charter of the DAO and its immutable policies will be formalised within 3 years of the token sale. By this time, most essential business functions of the app will have made it through the rigorous testing period.
 
 **Roadmap**
 
@@ -160,95 +162,21 @@ Q3 2017 : App version 2.9.4 released
 
 Q3 2017 : Disrupt Berlin, Startup Alley
 
+Q3 2017 : Funds exhausted, development stops
+
 Q3 2017 : White Paper on Forest Products Application
 
-Q1 2018 : ICO preparation
+Q1 2018 : Creation of 1,300,000 ERC20 TLY
 
-Q1 2018 : Pre-token sale of TLY
+Q2 2018 : Creation of dPoW Masternode TLY Assetchain
 
-Q1 2018 : Token sale of TLY
+Q3 2018 : TLY Mining and Fundraising proposals
 
-Q2 2018 : End of TLY token sale
+Q4 2018 : Fundraising
 
-Q3 2018 : App version 3.0
+Q1 2019 : DAO formation and voting mechanisms
 
-Q3 2018 : Web interface
-
-Q3 2018 : TLY listed on exchanges
-
-Q3 2018 : Establishment of Swiss foundation
-
-Q4 2018 : Cash-Agains-Documents functionality
-
-Q1 2019 : Lending integration
-
-Q2 2019 : DAO formation
-
-Q3 2019 : DAO deployment
-
-Q4 2019 : Blockchain integration of supply chain nodes
-
-Q1 2020 : Launch of Lumberscout forestry certification program
-
-**Lack of a Global Trading Platform**
-
-There is no global trading platform that provides the functionalities outlined in this white paper. Distributed ledgers can provide access to tokenised Forest Products. Blockchain technology makes it possible to send immutable transactions within the context of transparent contracts. By using distributed ledgers, decentralised participation in traditionally closed off markets is possible.
-
-**Introducing the TALLY Token (TLY) and the Token Sale**
-
-Tallies have been used by mankind for thousands of years. A 30,000 year old scrap of bone found in Czechoslovakia in 1937 by Karel Absolon, shows an early use case of a tally system. “Split tallies” were widely used in northern Europe up until the 19th century. Split tallies, often made from hazel wood, were distributed ledgers: neither party could change their half of the tally stick without the participation, knowledge or acceptance of the other party. This was accomplished by splitting a stick down the middle and then marking both halves with perfectly matching tally marks. If the two halves did not fit together precisely or the marks did not align, fraud could easily be established in a court of law. One downside to using tallies made of wood was flammability: They burnt down the Houses of Parliament in 1834. After due consideration, it has been decided to mint TLY as a modified ERC20 token for crowdsale. The aim of the token sale is to reward early adopters and further develop the application and management systems.
-
-**Principles of the tokens sale**
-
-Lumberscout aims for a token sale that is democratic, decentralized, secure and fair. This also applies to the vesting model and to the future governance of Lumberscout. In the spirit of democracy, anyone can buy TLY during the Token Sale period.
-
-Utility function 1: Users that pay fees with TLY tokens on the Lumberscout platform would receive a 25% price discount compared to paying with ETH or non-native currencies.
-
-Utility function 2: Featured services would only with payable with TLY tokens. Lumberscout will provide functions that are only possible with the use of TLY (can be only paid with TLY). These featured functions will include access to competitive logistics, lending, insurance and environmental certifications. This would require users to buy back tokens from the marketplace and generate perpetual demand for TLY.
-
-Utility function 3: Loans and longterm supply contracts can be concluded using TLY as a token for settlements. Such practice would shield buyer and seller from unnecessary domestic FIAT risk and would also require both parties to have enough TLY to fulfil their obligations.
-
-Utility function 4: All advertising on the mobile app, in the news feed or on the web app will be paid for in TLY. As a clearing house for information, Lumberscout will leverage its market position to profit from growing advertising revenues. With increasing transactions, the aggregated trade data will become valuable indicator of market direction.
-
-Utility function 5: Commodity verification procedures used for increasing liquidity, buyer security or cash-against-documents transactions will accept TLY as a medium for payment.
-
-Utility function 6: Forestry certification program: Manufacturers that pay for their certification with TLY will get a 50% discount.
-
-**Token Sale**
-
-The total supply of TLY is limited to 1 300 000 000 TLY. Of the total supply, 300 000 000 TLY will be sent to a development fund and locked for a period of two years. TLY unsold during initial crowdsales will be transferred to a holding account and held indefinitely or used in bonus crowdsale rounds if required.
-
-Pre-sale starts on 15 February 2018. A maximum of 70 000 000 TLY (7% of total) will be offered for sale at 30 000 TLY per 1 ETH
-
-Pre-sale ends on ends on 25 February 2018.
-
-Preferred sale starts on 01 March 2018. A maximum of 70 000 000 TLY (7% of total) will be offered for sale at 25 375 TLY per 1 ETH
-
-Preferred sale ends on 15 March 2018.
-
-Main sale starts on 20 March 2018 and ends on 20 May 2018. 20 000 TLY will be offered per 1 ETH.
-
-Minimum amount to participate: 0.5 ETH.
-
-**Token Distribution**
-
-TLY is distributed immediately once ETH is sent to the crowdsale address. Participants are advised to send smaller amounts to verify whether they have received TLY. Instant distribution is fair because the participants do not need to wait for TLY. Once ETH is received, TLY is sent to the participant’s wallet address.
-
-**Funds Allocation**
-
-Most of the funds will be allocated for the further development of the app: either on core development or on user experience. Lumberscout fund allocation is based on the following:
-
-30% on core development
-
-20% on user experience development
-
-10% on management & legal
-
-30% on promotions & marketing
-
-10% on unexpected costs
-
-Fund allocation is subject to change. Lumberscout will use best management practices and allocate funds at its own discretion.
+Q2 2019 : Resumption of Lumberscout development
 
 **Token Sale Entity**
 
@@ -267,5 +195,7 @@ Website: https://Lumberscout.io
 White Paper: https://github.com/Lumberscout/Documents/blob/master/whitepaper.md
 
 YouTube: https://www.youtube.com/channel/UCk7dpb5PZ8UzmXGfvx6nSvQ/videos
+
+Discord: https://discord.gg/bH8ENCm
 
 Twitter: https://twitter.com/LumberscoutCom
