@@ -163,7 +163,7 @@ Q3 2017 : Funds exhausted, development stops
 
 Q3 2017 : White Paper on Forest Products Application
 
-Q1 2018 : Creation of 1,300,000 ERC20 TLY
+Q1 2018 : Premine of 1,300,000 ERC20 TLY
 
 Q2 2018 : Creation of dPoW Masternode TLY Assetchain
 
