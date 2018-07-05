@@ -159,7 +159,7 @@ Q3 2017 : App version 2.9.4 released
 
 Q3 2017 : Disrupt Berlin, Startup Alley
 
-Q3 2017 : Funds exhausted, development stops
+Q3 2017 : Lack of funding
 
 Q3 2017 : White Paper on Forest Products Application
 
