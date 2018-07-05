@@ -196,6 +196,8 @@ Website: https://Lumberscout.io
 
 White Paper: https://github.com/Lumberscout/Documents/blob/master/whitepaper.md
 
+Reddit: https://www.reddit.com/r/Lumberscout/
+
 YouTube: https://www.youtube.com/channel/UCk7dpb5PZ8UzmXGfvx6nSvQ/videos
 
 Discord: https://discord.gg/bH8ENCm
