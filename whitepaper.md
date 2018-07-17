@@ -25,7 +25,7 @@ The total number of TLY mined in the following way:
 Block 226080 onward for another 2 years = 24 TLY
 All rewards equal or over 192 TLY are time locked to mature at a random block between 129,600 and 1,181,520
 
-To further secure and incentivise the system, 40% of the network PoW will be done by masternode operators holding a stake of 3500 TLY.
+To further secure and incentivise the system, 70% of the network PoW will be done by masternode operators holding a stake of 3500 TLY.
 
 
 **Summary of What We Are Developing**
