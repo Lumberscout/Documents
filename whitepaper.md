@@ -6,27 +6,6 @@ DISCLAIMER: This White Paper is intended for distribution solely for information
 
 ---------------------------
 
-**Update July 5th 2018**
-
-Evolutions in crypto-culture since the publishing of the original whitepaper in December 2017 have led to revisions in Lumberscout's fundraising strategy, roadmap and DAO. 
-
-1,300,000 ERC20 TALLY were premined and sent to two addresses. 1,000,000,000 was sent to the foundation's address and 300,000 to a time-locked development address. 10 TLY were sent to Komodo's Etomic developers and 10 TLY were sent to the Ethex dev team for testing. ERC20 TLY will be listed on a DEX and sold with community approval at market rates by the foundation for fundraising purposes or burned. All ERC20 TLY transactions can be followed here: https://etherscan.io/token/0x9a614a75ee8afaee643109061563d6145bdd701c
-
-Without adequate funds, Lumberscout cannot fund development. The new fundraising strategy is to create a CPU friendly, minable, dPoW secured, masternode assetchain based on the verus algorithm that will immediately be tradable in the barterDEX ecosystem. There will be no premine. All coins will be mined into existence. The Lumberscout team will then ask miners to donate TLY back to Lumberscout projects. These TLY will then be sold on the open market. This will ensure that TLY holders will always have a say on what is funded. Additionally, Proof of Stake can be established with voting mechanisms where the number of TLY held by an individual investor will be reflected in his number of votes on the platform. Value creators, funding value creators is the way forward. 
-
-The total number of TLY mined in the following way:
-1 week smooth linear ramp from 0 to 384, then halving every month (43,200 blocks)
-1st week:  Block 1 -> 10080 = 1,935,360 TLY
-1st month: Block 10080 -> 53280 = 384 TLY = 16,588,800 TLY
-2nd month: Block 53280 -> 96480 = 192 TLY = 8,294,400 TLY
-3rd month: Block 96480 -> 139680 = 96 TLY = 4,147,200 TLY
-4th month: Block 139680 -> 182880 = 48 TLY = 2,073,600 TLY
-5th month: Block 182880 -> 226080 = 24 TLY = 1,036,800 TLY
-Block 226080 onward for another 2 years = 24 TLY
-All rewards equal or over 192 TLY are time locked to mature at a random block between 129,600 and 1,181,520
-
-To further secure and incentivise the system, 70% of the network PoW will be done by masternode operators holding a stake of 3500 TLY.
-
 
 **Summary of What We Are Developing**
 
@@ -116,9 +95,6 @@ Collateral enables secured trading and lending. The Lumberscout system allows co
 
 Scattered, paper-based publications based on voluntary information typify the industry. Realtime hard data is hard to come by. Lumberscout will fundamentally change how the industry experiences news and market dynamics using smart algorithms. In addition to relevant trade news and featured articles, members will be encourage to participate with uncensored commentary. Commentators will also have the chance to be rewarded with TLY by the community for particularly astute or poignant observations. This will encourage participation and incentivise quality journalism.
 
-**Know Your Customer (KYC)**
-
-KYC regulation applies on money lending between borrowers and lenders. When FIAT is lent, the lender must conduct ‘known your customer’ compliance on certain thresholds by verifying the customer, the origins of the funds and other related verifications. The thresholds do vary from jurisdiction to jurisdiction but remain similar in principle. However, uncertainty lies within lending tokens since tokens are not a currency by definition of governments. Therefore, whether lending tokens is subject to KYC is an unsettled question.
 
 **Translations**
 
@@ -126,13 +102,13 @@ Languages included in the current 2.9.6 version of Lumberscout are: German, Fren
 
 **The Team**
 
-Damon Graf, National Hardwood Lumber Association, Board of Directors
+James Tyson, Founder
 
-James Tyson, Founder of Lumberscout
+Damon Graf, Advisor
 
-Karvin Vallandi, Tammetoru Kaubandus OÜ
+Karvin Vallandi, Token Sale
 
-Paul Leddy, NASA Jet Propulsion Laboratory
+Paul Leddy, Technical Advisor
 
 **Governance**
 
@@ -159,33 +135,27 @@ Q3 2017 : App version 2.9.4 released
 
 Q3 2017 : Disrupt Berlin, Startup Alley
 
-Q3 2017 : Funding shortfall
+Q3 2017 : White Paper Lumberscout
 
-Q3 2017 : White Paper on Forest Products Application
+Q1 2018 : Issuance of 1,300,000 ERC20 TLY
 
-Q1 2018 : Premine of 1,300,000 ERC20 TLY
+Q4 2018 : LUMBER assetchain put into operation
 
-Q2 2018 : Creation of dPoW Masternode TLY Assetchain
+Q4 2018 : Listing on LedgerDEX and barterDEX exchanges
 
-Q3 2018 : TLY Mining and Fundraising proposals
 
-Q4 2018 : Fundraising
-
-Q1 2019 : DAO formation and voting mechanisms
-
-Q2 2019 : Resumption of Lumberscout development
 
 **Token Sale Entity**
 
 Tammetoru Kaubandus OÜ - Reg: 12264023 - Narva mnt 5, Tallinn 10117, Estonia.
 
-Questions & assistance: support@lumberscout.com
+Questions & assistance: info@lumberscout.com
 
 Developers and investors are encouraged to connect with us on Telegram!: http://bit.ly/2BRok2w
 
 **Further Updates**
 
-Further updates on the TLY Token Sale and app will be published on https://Lumberscout.io
+Further updates will be published on https://Lumberscout.io
 
 Website: https://Lumberscout.io
 
