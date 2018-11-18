@@ -106,7 +106,7 @@ James Tyson, Founder
 
 Damon Graf, Advisor
 
-Karvin Vallandi, Token Sale
+Karvin Vallandi, Consultant
 
 Paul Leddy, Technical Advisor
 
