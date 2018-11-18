@@ -127,7 +127,7 @@ Q4 2016 : Start App Development
 
 Q1 2017 : App version 1.0 released
 
-Q2 2017 : App development
+Q2 2017 : App prototyping
 
 Q3 2017 : NHLA convention Memphis, TN
 
@@ -137,9 +137,9 @@ Q3 2017 : Disrupt Berlin, Startup Alley
 
 Q3 2017 : White Paper Lumberscout
 
-Q1 2018 : Issuance of 1,300,000 ERC20 TLY
+Q1 2018 : Issuance of 1,300,000,000 TALLY (ERC20)
 
-Q4 2018 : KMD dPoW LUMBER assetchain goes into operation
+Q4 2018 : 21,000,000 LUMBER (KMD) assetchain goes into operation
 
 Q4 2018 : Listing on LedgerDEX and barterDEX exchanges
 
