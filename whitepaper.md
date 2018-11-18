@@ -102,7 +102,7 @@ Languages included in the current 2.9.6 version of Lumberscout are: German, Fren
 
 **The Team**
 
-James Tyson, Founder
+James Tyson, Advisor
 
 Damon Graf, Advisor
 
