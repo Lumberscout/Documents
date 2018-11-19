@@ -29,7 +29,7 @@ The Forest Products industry is typically cash strapped to the point that there 
 
 **Empowering Crypto Lenders**
 
-By providing secured assets with the use of ERC20 tokens as collateral to major crypto lenders like SALT, ETHlend, et al. — as well as private lenders — Lumberscout’s system of verification will be a pivotal actor in the tokenised collateral chain. Forest Products manufacturers that adopt Lumberscout’s verification program will gain access to heretofore impossible liquidity. For example, TALLY token holders can exchange them for commodity tokens on the platform, but are not required to do so. They can be held as collateral. Instead, the applicant can pledge his tokens to receive funds. In this way, commodity tokens can be used to secure loans and can be sold off if required.
+By providing secured assets with the use of ERC20 tokens as collateral to major crypto lenders like SALT, ETHlend, et al. — as well as private lenders — Lumberscout’s system of verification will be a pivotal actor in the tokenised collateral chain. Forest Products manufacturers that adopt Lumberscout’s verification program will gain access to heretofore impossible liquidity. For example, LUMBER token holders can exchange them for commodity tokens on the platform, but are not required to do so. They can be held as collateral. Instead, the applicant can pledge his tokens to receive funds. In this way, commodity tokens can be used to secure loans and can be sold off if required.
 
 **Increasing Sales Efficiency**
 
@@ -105,11 +105,6 @@ Damon Graf, Advisor
 Karvin Vallandi, Consultant
 
 Paul Leddy, Technical Advisor
-
-**Governance**
-
-Lumberscout will follow a decentralized governance model similar to DAO. It will provide a forum for all members as well as institute a delegate system. Propositions can be put to a vote. Decisions are binding. Regular changes would require a majority of voters present and core changes would require 2/3 of the voters present. The aim is to create a democratic system to control app development. Moreover, it is crucial that all members can participate, make suggestions and vote.
-
 
 
 **Roadmap**
