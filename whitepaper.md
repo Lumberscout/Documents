@@ -45,7 +45,7 @@ To insure conformity to Lumberscout guidelines and mandates, certification and a
 
 **Collateral Management (risk mitigation)**
 
-Lumberscout will institute a collateral management system to limit loss in cases where collateral value drop below a certain threshold, the borrower must increase their collateral or the lender can call the collateral and sell it on the market. Alternatively, collateral swapping will be introduced where the lender can swap the collateral for a fee, to less volatile tokens, instead of selling.
+Lumberscout will institute a collateral management system to limit loss in cases where collateral value drops below a certain threshold, the borrower must increase their collateral or the lender can call the collateral and sell it on the market. Alternatively, collateral swapping will be introduced where the lender can swap the collateral for a fee, to less volatile tokens, instead of selling.
 
 **Simplified User Experience**
 
@@ -91,10 +91,6 @@ Lumberscout will develop auction-like bidding functionality to provide better fr
 
 Collateral enables secured trading and lending. The Lumberscout system allows collateral to be applied to conditional programmed contracts. If one of the parties does not perform their part according to the contract, funds can be returned. For example, a buyer applies pre-payment to a purchasing contract contingent on it shipping within two weeks. The seller has the surety that he will be paid, prompting him to act. The buyer’s risk of non-shipment is mitigated. If the conditions are not met he is refunded his deposit. The same principle can be applied between lenders and borrowers.
 
-**Industry News**
-
-Scattered, paper-based publications based on voluntary information typify the industry. Realtime hard data is hard to come by. Lumberscout will fundamentally change how the industry experiences news and market dynamics using smart algorithms. In addition to relevant trade news and featured articles, members will be encourage to participate with uncensored commentary. Commentators will also have the chance to be rewarded with TLY by the community for particularly astute or poignant observations. This will encourage participation and incentivise quality journalism.
-
 
 **Translations**
 
@@ -114,7 +110,6 @@ Paul Leddy, Technical Advisor
 
 Lumberscout will follow a decentralized governance model similar to DAO. It will provide a forum for all members as well as institute a delegate system. Propositions can be put to a vote. Decisions are binding. Regular changes would require a majority of voters present and core changes would require 2/3 of the voters present. The aim is to create a democratic system to control app development. Moreover, it is crucial that all members can participate, make suggestions and vote.
 
-Towards this purpose a Swiss Foundation or Swiss LLC will be created that connects DAO governance to Lumberscout. Such connection might not be ideal when we are aiming for complete decentralization. However, such a layer is vital for protecting our users from unforeseeable regulatory hazards.
 
 
 **Roadmap**
@@ -127,7 +122,7 @@ Q4 2016 : Start App Development
 
 Q1 2017 : App version 1.0 released
 
-Q2 2017 : App prototyping
+Q2 2017 : Prototyping
 
 Q3 2017 : NHLA convention Memphis, TN
 
@@ -138,6 +133,8 @@ Q3 2017 : Disrupt Berlin, Startup Alley
 Q3 2017 : White Paper Lumberscout
 
 Q1 2018 : Issuance of 1,300,000,000 TALLY (ERC20)
+
+Q2 2018 : Prototyping
 
 Q4 2018 : 21,000,000 LUMBER (KMD) assetchain goes into operation
 
