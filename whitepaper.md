@@ -13,7 +13,7 @@ Lumberscout will use decentralized technologies to radically change the forest p
 
 **Market Size**
 
-Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016. To put that in perspective, if you spent one USD per second, it would take you approximately 126,836 years to reach 4 trillion. According to U.N. statistics 33% of the world population currently depends on Forest Products for sustenance. Despite the importance of Forest Products to the global economy, novelties like “ride-sharing” services or “crypto-kitties” have distracted many to the fact that recent technological breakthroughs can entirely revolutionise established commodity-based industries. Lumberscout will redefine the Forest Products sector.
+Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016. To put that in perspective, if you spent one USD per second, it would take you approximately 126,836 years to reach 4 trillion. According to U.N. statistics 33% of the world population currently depends on Forest Products for sustenance. Despite the importance of Forest Products to the global economy, novelties like ride-sharing services or crypto-kitties have distracted many to the fact that recent technological breakthroughs can entirely revolutionise established commodity-based industries.
 
 **Disruption**
 
