@@ -29,7 +29,7 @@ As the crypto-economy grows, so too does the demand for the tokenisation of comm
 
 **Market Size**
 
-Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016. If you spent one USD per second, it would take you approximately 126,836 years to reach 4 trillion. According to U.N. statistics 33% of the world population currently depends on Forest Products for sustenance. Despite the importance of Forest Products to the global economy, novelties like “ride-sharing” services or “crypto-kitties” have distracted many to the fact that recent technological breakthroughs can entirely revolutionise established commodity-based industries. Lumberscout will redefine the Forest Products sector.
+Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016. If you spent one USD per second, it would take you approximately 126,836 years to reach 4 trillion. According to U.N. statistics, 33% of the world population currently depends on Forest Products for sustenance. Despite the importance of Forest Products to the global economy, novelties like “ride-sharing” services or “crypto-kitties” have distracted many to the fact that recent technological breakthroughs can entirely revolutionise established commodity-based industries. Lumberscout will redefine the Forest Products sector.
 
 
 
@@ -50,7 +50,7 @@ The Forest Products industry is typically cash strapped to the point that there 
 
 **Empowering Crypto Lenders**
 
-By providing secured assets with the use of ERC20 tokens as collateral to major crypto lenders like SALT, ETHlend, et al. — as well as private lenders — Lumberscout’s system of verification will be a pivotal actor in the tokenised collateral chain. Forest Products manufacturers that adopt Lumberscout’s verification program will gain access to heretofore impossible liquidity. For example, TALLY & LUMBER token holders can exchange them for commodity tokens on the platform, but are not required to do so. They can be held as collateral. Instead, the manufacturer can pledge his tokens to receive funds. In this way, commodity tokens can be used to secure loans and can be sold off if required. In addition to Lumberscout’s own credit rating system, Lumberscout will, on behalf of the user — if so desired — allow their scores to be broadcast to other decentralised credit rating institutions. Additionally, oracles can be used to provide feeds from social media for creating a more complete credit profile. In this way Lumberscout will act as a third-party repository of unalterable data that will serve lenders, financial markets and trade partners in perpetuity. Adoption of Lumberscout’s rating system will become more valuable to sellers, buyers and lenders over time as its data grows and its predictive algorithms are refined.
+By providing secured assets with the use of LUMBER & TALLY as collateral to major crypto lenders like SALT, ETHlend, et al. — as well as private lenders — Lumberscout’s system of verification will be a pivotal actor in the tokenised collateral chain. Forest Products manufacturers that adopt Lumberscout’s verification program will gain access to heretofore impossible liquidity. For example, LUMBER & TALLY holders can exchange them for commodity tokens on the platform, but are not required to do so. They can be held as collateral. Instead, the manufacturer can pledge his tokens to receive funds. In this way, commodity tokens can be used to secure loans and can be sold off if required. In addition to Lumberscout’s own credit rating system, Lumberscout will, on behalf of the user — if so desired — allow their scores to be broadcast to other decentralised credit rating institutions. Additionally, oracles can be used to provide feeds from social media for creating a more complete credit profile. In this way Lumberscout will act as a third-party repository of unalterable data that will serve lenders, financial markets and trade partners in perpetuity. Adoption of Lumberscout’s rating system will become more valuable to sellers, buyers and lenders over time as its data grows and its predictive algorithms are refined.
 
 
 
@@ -162,21 +162,27 @@ Q1 2017 : App version 1.0 released
 
 Q2 2017 : Prototyping
 
-Q3 2017 : NHLA convention Memphis, TN
+Q3  2017 : NHLA convention Memphis, TN
 
-Q3 2017 : App version 2.9.4 released
+Q3  2017 : App version 2.9.4 released
 
-Q3 2017 : Disrupt Berlin, Startup Alley
+Q3  2017 : Disrupt Berlin, Startup Alley
 
-Q3 2017 : White Paper Lumberscout
+Q3  2017 : Lumberscout Whitepaper
 
-Q1 2018 : Issuance of 1,300,000,000 TALLY (ERC20)
+Q1  2018 : Launch of TALLY (ERC20) on the Ethereum blockchain
 
-Q2 2018 : Prototyping
+Q2  2018 : Prototyping
 
-Q4 2018 : 21,000,000 LUMBER (KMD) assetchain goes into operation
+Q4  2018 : Launch of the LUMBER (dPoW KMD) PoS/PoW verushash blockchain 
 
-Q4 2018 : Listing on LedgerDEX and barterDEX exchanges
+Q1  2019 : Sale of LUMBER premine
+
+Q2+ 2019 : Development of the trading chain and platform infrastructure
+
+
+
+ 
 
 
 
