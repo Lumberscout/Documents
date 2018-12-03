@@ -22,7 +22,7 @@ Lumberscout is committed to ethical behavior and the advancement of industry by 
 
 **Tokenization of Forest Products**
 
-As the crypto-economy grows, so too does the demand for the tokenisation of commodities. The blockchain, much like containerised shipping, has redefined global trade. However, the practical aspects of verification at the beginning stages of the distributed ledger process requires close attention and new management as well as legal infrastructures. Lumberscout will implement verify and track procedures throughout the harvesting, production, transportation and manufacturing stages. By taking the first steps towards tokenising commodities, Lumberscout will connect the crypto economy with the Market of Things (MoT).
+As the crypto-economy grows, so too does the demand for the tokenisation of commodities. The blockchain, much like containerised shipping, will redefine global trade. Verification at the beginning stages of the distributed ledger process requires close attention and new management as well as legal precedents. Lumberscout will implement verify and track procedures throughout the harvesting, production, transportation and manufacturing stages. By taking the first steps towards tokenising commodities, Lumberscout will connect the crypto economy with the Market of Things (MoT).
 
 
 
@@ -34,7 +34,7 @@ Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016.
 
 
 
-**Commodity Based**
+**Commodity Focus**
 
 By establishing LUMBER as a benchmark of utility within the context of Lumberscout's trading platform, its convertibility in the global market place will become more recognised as a standardised store of value for a new class of economic operators in a growing crypto economy. 
 
