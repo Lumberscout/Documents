@@ -109,13 +109,21 @@ The VerusHash algorithm, bringing near-equality between CPUs and GPUs with the f
 **Emission scheme and technical characteristics**
 
 Total Supply: 21,000,000 LUMBER
+
 Premine: 1,260,600
+
 Consensus Mechanism: 60% PoS / 40% dPoW 
+
 Preferred Consensus Device: CPU / GPU
+
 Mining Algorithm: VerusHash
+
 Blocktime: 1 minute 
+
 Block Halving:  4 year interval 
+
 Current Block Reward: 4.7
+
 Launch date: To be announced 
 
 
