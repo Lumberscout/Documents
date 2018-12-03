@@ -36,14 +36,8 @@ Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016.
 
 **Commodity Focus**
 
-By establishing LUMBER as a benchmark of utility within the context of Lumberscout's trading platform, its convertibility in the global market place will become more recognised as a standardised store of value for a new class of economic operators in a growing crypto economy. 
+By establishing LUMBER as a benchmark of utility within the context of Lumberscout's trading platform, its convertibility will become more recognised as a standardised store of value for a new class of economic operators in a growing crypto economy. 
 
-
-
-
-**Increasing the Liquidity of the Forest Products Sector**
-
-The Forest Products industry is typically cash strapped to the point that there is no extra capital to make needed investments in machinery, automation or sustainability. Especially productions in developing nations that want to modernise and become responsible producers, access to funds and basic safety equipment are sorely lacking. Small loans can mean the difference between crushing poverty and lives filled with stewardship and meaningful work. By facilitating reputation-based lending with decentralised credit ratings, consisting of data on trade performance and data feeds from service providers such as credit institutions and social media, Lumberscout will provide investors with the information they need to make knowledgeable decisions. Moreover, services such as Bloom can be used to broadcast defaults to centralised credit scores.
 
 
 
@@ -68,6 +62,9 @@ Lumberscout will institute a collateral management system to limit loss in cases
 
 
 
+**Increasing the Liquidity of the Forest Products Sector**
+
+The Forest Products industry is typically cash strapped to the point that there is no extra capital to make needed investments in machinery, automation or sustainability. Especially productions in developing nations that want to modernise and become responsible producers, access to funds and basic safety equipment are sorely lacking. Small loans can mean the difference between crushing poverty and lives filled with stewardship and meaningful work. By facilitating reputation-based lending with decentralised credit ratings, consisting of data on trade performance and data feeds from service providers such as credit institutions and social media, Lumberscout will provide investors with the information they need to make knowledgeable decisions. Moreover, services such as Bloom can be used to broadcast defaults to centralised credit scores.
 
 
 **Competitive Bidding**
