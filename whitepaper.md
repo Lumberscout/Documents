@@ -33,7 +33,7 @@ As the crypto-economy grows, so too does the demand for the tokenisation of comm
 Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016. If you spent one USD per second, it would take you approximately 126,836 years to reach 4 trillion. According to U.N. statistics 33% of the world population currently depends on Forest Products for sustenance. Despite the importance of Forest Products to the global economy, novelties like “ride-sharing” services or “crypto-kitties” have distracted many to the fact that recent technological breakthroughs can entirely revolutionise established commodity-based industries. Lumberscout will redefine the Forest Products sector.
 
 
-**Commodity pegging
+**Commodity pegging**
 
 By establishing LUMBER as a benchmark of utility within the context of Lumberscout's trading platform, its convertibility in the global market place will become more recognised as a standardised store of value for a new class of economic operators in a growing, sustainable and essential part of the economy.
 
