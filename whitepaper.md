@@ -9,20 +9,13 @@
 
 **Summary of What We Are Developing**
 
-Lumberscout will use decentralized technologies to change the forest products (FP) sector; providing a safe platform for industrial producers, industrial consumers and industrial lenders to conduct business. Lumberscout’s implementation of distributed ledgers, commodity certifications, supply chain verification and efficient sales architecture will fundamentally change how forest products are financed, traded and certified. By harnessing disruptive technologies and establishing verification and governance frameworks, Lumberscout makes trustless, meritocratic consensus mechanisms possible on a global scale.
+Lumberscout will use decentralized technologies to change the forest products (FP) sector; providing a safe platform for industrial producers, industrial consumers and industrial lenders to conduct business. Lumberscout’s implementation of distributed ledgers, commodity certifications, supply chain verification and efficient sales architecture will fundamentally change how forest products are financed, traded and certified. By harnessing disruptive technologies and establishing verification and governance frameworks, Lumberscout makes trustless, meritocratic consensus mechanisms possible on a global scale. 
 
 
 
 **Ethics & Standards**
 
 Lumberscout is committed to ethical behavior and the advancement of industry by developing efficient, trustworthy trading infrastructure. Lumberscout is committed to the values of fairness, moral integrity, applicable law and fundamental human rights. Lumberscout will act to protect the privacy and wishes of our users, partners, and community. Lumberscout will engage in critical and regular assessments. Lumberscout will consistently and unwaveringly act in the best interests of our users, partners, investors, privacy, autonomy, equal access and environmental responsibility.
-
-
-
-
-**Increasing Sales Efficiency**
-
-Lumberscout’s bidding, personal messaging system and social-media distributed inventory databases, funnel activity into formalised contracts with maximum efficiency. Bids can be made specifying quantities, grades, delivery and payment terms. At the end of the bidding process, both parties are sent copies of the contract and can download them from user account archives, where they are saved and timestamped. Each contract and their subsequent rating will form an irrevocable part of user reputation. These processes utilise technology to save time and reduce errors.
 
 
 
@@ -89,6 +82,11 @@ Lumberscout bidding functionality will be expanded from industrial commodities l
 
 Lumberscout will be at the forefront of integrating blockchain based logistics into the Lumberscout platform. Earlier this year Maersk shipping (the world’s largest container shipping line), announced that it was cooperating with IBM to put all of its shipping on the blockchain within two years. Similar adoptions of blockchain technology will take place in domestic trucking operations. Lumberscout will be the app that aggregates these service providers and validation nodes into one application. This will increase transparency and security for buyers, sellers and lenders.
 
+
+
+**Increasing Sales Efficiency**
+
+Lumberscout’s bidding, personal messaging system and social-media distributed inventory databases, funnel activity into formalised contracts with maximum efficiency. Bids can be made specifying quantities, grades, delivery and payment terms. At the end of the bidding process, both parties are sent copies of the contract and can download them from user account archives, where they are saved and timestamped. Each contract and their subsequent rating will form an irrevocable part of user reputation. These processes utilise technology to save time and reduce errors.
 
 
 
