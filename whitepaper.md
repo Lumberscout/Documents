@@ -29,7 +29,7 @@ As the crypto-economy grows, so too does the demand for the tokenisation of comm
 
 **Market Size**
 
-Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016. If you spent one USD per second, it would take you approximately 126,836 years to reach 4 trillion. According to U.N. statistics, 33% of the world population currently depends on Forest Products for sustenance. Despite the importance of Forest Products to the global economy, novelties like “ride-sharing” services or “crypto-kitties” have distracted many to the fact that recent technological breakthroughs can entirely revolutionise established commodity-based industries. Lumberscout will redefine the Forest Products sector.
+Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016. If you spent one USD per second, it would take you approximately 126,836 years to reach 4 trillion. According to U.N. statistics, 33% of the world population currently depends on Forest Products for sustenance. Despite the importance of Forest Products to the global economy, novelties like “crypto-kitties” or not so novel “ride-sharing” services have distracted the public imagination away from the fact that practical implementations of public ledgers can revolutionise commodity-based industries. Lumberscout will redefine the Forest Products sector.
 
 
 
@@ -92,7 +92,7 @@ Lumberscout’s bidding, personal messaging system and social-media distributed 
 
 **Implementation of Block-Chain-of-Custody (BCoC) Sustainable Forestry Standards**
 
-There are a variety of companies offering forest certifications. The problem with these companies is that they have become for-profit bureaucracies that obliquely follow their mandate. Within the context of the Lumberscout DAO, holistic approaches to sustainability are possible. Once industry consensus is reached, such certifications can be put into practice.
+There are a variety of companies offering forest certifications. The problem with these companies is that they have become for-profit bureaucracies that obliquely follow their mandate. Within the context of the Lumberscout DAO, holistic approaches to sustainability are possible. Once industry consensus is reached, such certifications can be put into practice and monitored in realtime. 
 
 
 
@@ -110,7 +110,7 @@ Lumberscout will develop auction-like bidding functionality to provide better fr
 
 **Trading Architecture & Practical Use of zk-SNARKs**
 
-Lumberscout will employ a series of blockchains to facilitate the trade forest products. For the sake of simplicity they could be simplified into the proprietary "trading chain" (TC) and the LUMBER "utility chain" (UC). The TC will use crypto-conditioned, wrapped LUMBER, whereas the UC will consist exclusively of unwrapped LUMBER. Transfers into and out of the TC will require zk-SNARKs. This will ensure that there is no chain analysis attack vector linkage between the TC and the UC; while protecting institutional buyers from predatory high-frequency trading (HFT) practices. 
+Lumberscout will employ a series of blockchains to facilitate the trade of Forest Products. For the sake of simplicity they could be simplified into the proprietary "trading chain" (TC) and the LUMBER "utility chain" (UC). The TC will use crypto-conditioned, wrapped LUMBER, whereas the UC will consist exclusively of unwrapped LUMBER. Transfers into and out of the TC will require zk-SNARKs. This will ensure that there is no chain analysis attack vector linkage between the TC and the UC; while protecting institutional buyers from predatory high-frequency trading (HFT) practices. 
 
 
 
