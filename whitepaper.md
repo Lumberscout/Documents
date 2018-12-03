@@ -15,8 +15,7 @@ Lumberscout will use decentralized technologies to change the forest products (F
 
 **Ethics & Standards**
 
-Lumberscout is committed to ethical behavior and the advancement of industry by developing efficient, trustworthy trading infrastructure. Lumberscout is committed to the values of fairness, moral integrity and working within the framework of applicable law. Lumberscout will act to protect the privacy and wishes of our users, partners, and community.
-Lumberscout will engage in critical and regular assessments of the possible risks related to our product and policies to guide the development of ethical practice and disclose this assessment to the maximum extent possible within our legal requirements, without violating our commitment to our users, partners, privacy or equal access to economic activity.
+Lumberscout is committed to ethical behavior and the advancement of industry by developing efficient, trustworthy trading infrastructure. Lumberscout is committed to the values of fairness, moral integrity and working within the framework of applicable law. Lumberscout will act to protect the privacy and wishes of our users, partners, and community. Lumberscout will engage in critical and regular assessments of the possible risks related to our product and policies. Lumberscout will consistently and unwaveringly act in the best interests of our users, partners, investors as well as for fundamental human rights, privacy, autonomy, equal access and environmental responsibility.
 
 
 
