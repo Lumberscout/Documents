@@ -34,10 +34,9 @@ Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016.
 
 
 
+**Commodity Based**
 
-**Commodity pegging**
-
-By establishing LUMBER as a benchmark of utility within the context of Lumberscout's trading platform, its convertibility in the global market place will become more recognised as a standardised store of value for a new class of economic operators in a growing, sustainable and essential part of the economy. 
+By establishing LUMBER as a benchmark of utility within the context of Lumberscout's trading platform, its convertibility in the global market place will become more recognised as a standardised store of value for a new class of economic operators in a growing crypto economy. 
 
 
 
