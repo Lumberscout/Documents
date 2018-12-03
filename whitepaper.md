@@ -245,6 +245,6 @@ Reddit: https://www.reddit.com/r/Lumberscout/
 
 YouTube: https://www.youtube.com/channel/UCk7dpb5PZ8UzmXGfvx6nSvQ/videos
 
-Discord: https://discord.gg/bH8ENCm
+Discord: https://discord.gg/hyk3v4h
 
 Twitter: https://twitter.com/LumberscoutCom
