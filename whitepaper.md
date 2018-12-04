@@ -27,16 +27,15 @@ As the crypto-economy grows, so too does the demand for the tokenisation of comm
 
 
 
-**Market Size**
-
-Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016. If you spent one USD per second, it would take you approximately 126,836 years to reach 4 trillion. According to U.N. statistics, 33% of the world population currently depends on Forest Products for sustenance. Despite the importance of Forest Products to the global economy, novelties like “crypto-kitties” or not so novel “ride-sharing” services have distracted the public imagination away from the fact that practical implementations of public ledgers can revolutionise commodity-based industries. Lumberscout will redefine the Forest Products sector.
-
-
-
-
 **Commodity Focus**
 
 By establishing LUMBER as a benchmark of utility within the context of Lumberscout's trading platform, its convertibility will become more recognised as a standardised store of value for a new class of economic operators in a growing crypto economy. 
+
+
+
+**Market Size**
+
+Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016. If you spent one USD per second, it would take you approximately 126,836 years to reach 4 trillion. According to U.N. statistics, 33% of the world population currently depends on Forest Products for sustenance. Despite the importance of Forest Products to the global economy, novelties like “crypto-kitties” or not so novel “ride-sharing” services have distracted the public imagination away from the fact that practical implementations of public ledgers can revolutionise commodity-based industries. Lumberscout will redefine the Forest Products sector.
 
 
 
@@ -102,25 +101,21 @@ Lumberscout will develop auction-like bidding functionality to provide better fr
 
 
 
-
-
-
-**Trading Architecture & Practical Use of zk-SNARKs**
-
-Lumberscout will employ a series of blockchains to facilitate the trade of Forest Products. For the sake of simplicity they could be simplified into the proprietary "trading chain" (TC) and the LUMBER "utility chain" (UC). The TC will use crypto-conditioned, wrapped LUMBER, whereas the UC will consist exclusively of unwrapped LUMBER. Transfers into and out of the TC will require zk-SNARKs. This will ensure that there is no chain analysis attack vector linkage between the TC and the UC; while protecting institutional buyers from predatory high-frequency trading (HFT) practices. 
-
-
-
-
 **Delayed Proof of Work (dPoW)**
 
-The dPoW consensus method contains two different nodes: notary nodes and ‘normal nodes’. The Komodo security service is performed by notary nodes  which  are  needed  to  record  transaction  data  to  the  Bitcoin blockchain, referred to as notarization. With this method, even a single surviving copy of the Komodo main chain will allow the entire ecosystem to overwrite and overrule any of an attacker’s attempted changes. 
+Delayed proof of work is an extra security measure to eliminate the possibility of 51% attacks. The dPoW consensus method contains two different nodes: notary nodes and ‘normal nodes’. The Komodo security service is performed by notary nodes  which  are  needed  to  record  transaction  data  to  the  Bitcoin blockchain, referred to as notarization. With this method, even a single surviving copy of the Komodo main chain will allow the entire ecosystem to overwrite and overrule any of an attacker’s attempted changes. 
 
 
 
 **Crypto Conditions**
 
 Each CC contract has an eval code, this is just an arbitrary number that is associated with a specific CC contract. The details about a specific CC contract are all determined by the validation logic, that is ultimately what implements a CC contract. Unlike the normal bitcoin payments, where it is validated with only information in the transaction, a CC contract can be used execute a variety of business logic based transactions; ranging from the simple to the highly complex, eg. butterflies and straddles. The Lumberscout platform allows collateral to be applied to conditional programmed contracts. If one of the parties does not perform their part according to the contract, funds can be returned. For example, a buyer applies pre-payment to a purchasing contract contingent on it shipping within two weeks. The seller has the surety that he will be paid, prompting him to act. The buyer’s risk of non-shipment is mitigated. If the conditions are not met he is refunded his deposit. The same principle can be applied between lenders and borrowers.
+
+
+**Practical Use of zk-SNARKs & Platform Architecture**
+
+Lumberscout will employ a series of blockchains to facilitate the trade of Forest Products. For the sake of simplicity they can be divided into the proprietary KYC regulated "trading chain" (TC) and the LUMBER "utility chain" (UC). The TC will use wrapped LUMBER, whereas the UC consists solely of unwrapped LUMBER. Transfers into and out of the TC will only be possible via zk-SNARKs addresses. This will protect the TC and UC from chain analysis attack vectors or linkage by rogue actors and shielding larger UC block buyers & sellers from predatory high-frequency trading (HFT) practices. This setup will allow Lumberscout to comply with KYC regulations on the TC while maintaining a zk-SNARKs "privacy hedge" between the TC & UC. For example: a KYC registered sawmill on the TC decides borrow 100 LUMBER from an lender to build new dry kilns at a specified rate of interest. The lender would send a ztransaction to the TC with crypto-conditions identifying the recipient. The LUMBER is converted into wrapped LUMBER and credited to the sawmill's trading account on the TC. Likewise 100 LUMBER is deducted from the lender's balance of LUMBER on the UC. The sawmill promptly places an order with a dry kiln manufacturer for 100 LUMBER on the TC. The loan is reflected in both the sawmill's and lender's accounting departments. Business confidentiality and legality is maintained for both parties. This example presumes that the lender had 100 LUMBER to lend. If the lender only had 10 LUMBER at the conclusion of the loan agreement, the lender would have to purchase the remaining 90 LUMBER at market rates. Purchasing and selling LUMBER determines the price of LUMBER at any given time. Conversely should a paper manufacturer which to withdraw wrapped LUMBER in order to convert it into BTC, fiat, etc. wrapped LUMBER would be sent via crypto conditions and a ztransaction to their company's UC zaddress wallet. From there funds can be held in perpetuity, moved or traded as desired.  
+
 
 
 
