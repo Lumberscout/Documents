@@ -35,7 +35,7 @@ By establishing LUMBER as a benchmark of utility within the context of Lumbersco
 
 **Market Size**
 
-Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016. If you spent one USD per second, it would take you approximately 126,836 years to reach 4 trillion. According to U.N. statistics, 33% of the world population currently depends on Forest Products for sustenance. Despite the importance of Forest Products to the global economy, novelties like “crypto-kitties” or not so novel “ride-sharing” services have distracted the public imagination away from the fact that practical implementations of public ledgers can revolutionise commodity-based industries. Lumberscout will redefine the Forest Products sector.
+Forest Products account for 5% of Gross World Product or 4 trillion USD in 2016. If you spent one USD per second, it would take you approximately 126,836 years to reach 4 trillion. According to U.N. statistics, 33% of the world population currently depends on Forest Products for sustenance. Despite the importance of Forest Products to the global economy, novelties continue to distract the public imagination. The fact remains: practical implementations of distributed ledgers can revolutionise commodity-based industries. Lumberscout will redefine the Forest Products sector.
 
 
 
