@@ -103,7 +103,7 @@ Lumberscout will develop auction-like bidding functionality to provide better fr
 
 **Delayed Proof of Work (dPoW)**
 
-Delayed proof of work is an extra security measure to eliminate the possibility of 51% attacks. The dPoW consensus method contains two different nodes: notary nodes and ‘normal nodes’. The Komodo security service is performed by notary nodes  which  are  needed  to  record  transaction  data  to  the  Bitcoin blockchain, referred to as notarization. With this method, even a single surviving copy of the Komodo main chain will allow the entire ecosystem to overwrite and overrule any of an attacker’s attempted changes. 
+Delayed proof of work is an extra security measure to eliminate the possibility of 51% attacks. The dPoW consensus method contains two different nodes: notary nodes and ‘normal nodes’. The Komodo security service is performed by notary nodes that record  transaction  data to the Bitcoin blockchain (notarization). With this method, even a single surviving copy of the Komodo main chain will allow the entire ecosystem to overwrite and overrule any attacker’s attempted changes. 
 
 
 
@@ -127,7 +127,7 @@ The VerusHash algorithm -- the fastest CPU mining algorithm as of 2018 -- was de
 
 **Bridging Ethereum**
 
-Lumbescout's TALLY ERC20 token -- contract address: 0x9a614a75ee8afaee643109061563d6145bdd701c -- was launched on the Ethereum blockchain in Q1 of 2018. Lumberscout will continue to experiment, learn and work with the Ethereum community to facilitate atomic swaps between ERC20 and SHA256 protocols. The listing of TALLY on the ERC20 DEXs 0x, AirSwap and LedgerDEX are planned for Q1 2019.   
+Lumbescout's TALLY ERC20 token -- contract address: 0x9a614a75ee8afaee643109061563d6145bdd701c -- was launched on the Ethereum blockchain in Q1 of 2018. Lumberscout will continue to experiment, learn and work with the Ethereum community to facilitate atomic swaps between ERC20 and SHA256 protocols. The listing of TALLY on the ERC20 DEXs 0x, AirSwap and LedgerDEX are planned for Q1 2019.     
 
 **DAO Governance**
 
