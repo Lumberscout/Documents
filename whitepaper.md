@@ -135,7 +135,7 @@ Parallel to developing better inventory visibility, sales and supply chain infra
 
 **Project Funding & Premine**
 
-To fund development and early exchange activity, 6% of total supply or 1,260,600 LUMBER was premined. Some or all of this amount will be offered for sale to raise funds needed for further project development. The main areas of expenditure in the beginning will be development of the trading chain, intuitive user interfaces, marketing, training, as well as legal expenditures to codify ownership of tokenised FPs and certification processes followed by DAO voting infrastructure and community participation initiatives.    
+To fund development and early exchange activity, 6% of total supply or 1,260,600 LUMBER was premined. Some or all of this amount will be offered for sale to raise funds for the project. Early expenditures are necessary to build the trading chain, create intuitive user interfaces, marketing, verification training, legal codification of tokenised ownership, establishment of certification processes, DAO voting mechanisms, et al.    
 
 
 
