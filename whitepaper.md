@@ -103,7 +103,7 @@ Lumberscout will develop auction-like bidding functionality to provide better fr
 
 **Delayed Proof of Work (dPoW)**
 
-Delayed proof of work is an extra security measure to eliminate the possibility of 51% attacks. The dPoW consensus method contains two different nodes: notary nodes and ‘normal nodes’. The Komodo security service is performed by notary nodes that record  transaction  data to the Bitcoin blockchain (notarization). With this method, even a single surviving copy of the Komodo main chain will allow the entire ecosystem to overwrite and overrule any attacker’s attempted changes. 
+Delayed proof of work is an extra security measure to eliminate the possibility of 51% attacks. The dPoW consensus method contains two different nodes: notary nodes and ‘normal nodes’. The Komodo security service is performed by notary nodes that record  transaction  data to the Bitcoin blockchain (notarization). With this method, even a single surviving copy of the KMD parent chain will make an overwrite possible should an attacker attempt to corrupt the ledger. 
 
 
 
