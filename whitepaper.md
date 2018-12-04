@@ -35,7 +35,7 @@ By establishing LUMBER as a benchmark of utility within the context of Lumbersco
 
 **Market Size**
 
-FPs account for 5% of Gross World Product or 4 trillion USD in 2016. If you spent one USD per second, it would take you approximately 126,836 years to reach 4 trillion. According to U.N. statistics, 33% of the world population currently depends on FPs for sustenance. Despite the importance of FPs in the global economy, novelties continue to distract the public imagination. The fact remains: practical implementations of distributed ledgers can revolutionise commodity-based industries. Lumberscout will redefine the FPs sector.
+FPs account for 5% of Gross World Product or 4 trillion USD in 2016. If you spent one USD per second, it would take you approximately 126,836 years to reach 4 trillion. According to U.N. statistics, 33% in the world population currently depends on FPs for sustenance. Despite the importance of FPs to the global economy, novelties continue to distract the public imagination. The fact remains: practical implementations of distributed ledgers can revolutionise commodity-based industries. Lumberscout will redefine the FPs sector.
 
 
 
@@ -121,14 +121,14 @@ Lumberscout will employ a series of blockchains to facilitate the trade of FPs. 
 
 **VerusHash Algorithm**
 
-The VerusHash algorithm brings near-equality between CPUs and GPUs with the fastest CPU mining algorithm in the world. The VerusPoS algorithm, allowing for a 60/40 hybrid blockchain with a 60% PoS / 40% Equihash for the proof of work component; giving LUMBER hodlers, early-adopters and small miners equal footing with larger ASIC miners -- at least in the timeframe that ASICs are not developed for the VerusHash or should VerusHash continue to adopt additional measures to ensure fair, decentralised mining.  
+The VerusHash algorithm -- the fastest CPU mining algorithm as of 2018 -- was developed by Michael J Toutonghi (ret. Microsoft VP) in the context of the Verus Coin project. Although it possible to build ASIC miners for any algorithm if there is enough economic incentive, it is also possible to continuously adapt counter measures to ensure decentralised, fair, accessible mining. VerusHash is a exceedingly CPU-friendly, quantum secure, long input  hash  function  that  uses  the  quantum  secure,  short  input  Haraka512  V2  as  its core compression algorithm.  It is fast, not due to the general purpose nature of the CPUs themselves, but from the AES-NI and AVX instruction sets, effectively an ASIC in the CPU. To augment the CPU-friendly proof of work algorithm with even more centralisation resistance, Lumberscout uses a proof of work (PoW) / proof of stake (PoS) hybrid algorithm for combined mining and staking that is immune to fluctuations in network hash rate.  This further hardens the chain against future ASICs and PoW only attacks that may be posed by  new  ASIC  systems. This  approach  will  also reward the loyalty and dedication of the pre-ASIC mining community. 
 
 
 
 
 **DAO Governance**
 
-Parallel to developing better inventory visibility, sales and supply chain infrastructure, Lumberscout will implement a DAO based delegate system for global governance and the continuous evolution of industry standards and practices, such as: forestry certification, grading standardisation, collateral management and codification of international regulations. Proper DAO governance can solve problems before they devolve into costly disputes that end up in prolonged, centralised arbitration. The recent softwood trade dispute between USA and Canada is one recent example that can be expected to repeat itself unless better inter-trade regulations and decentralised consensus mechanisms are put into place. With DAO appointed regional delegates and transparent voting mechanisms the responsibilities of stewardship and consensus can be efficiently implemented. By building delegations, Lumberscout can have a significant impact on global sustainability and other environmental directives.
+Parallel to developing better inventory visibility, sales and supply chain infrastructure, Lumberscout will implement a DAO based delegate system for global governance and the continuous evolution of industry standards and practices, such as: forestry certification, grading standardisation, collateral management and codification of internal regulations. Proper DAO governance can solve problems before they devolve into costly disputes that end up in prolonged, centralised arbitration. The recent softwood trade dispute between USA and Canada is one recent example that can be expected to repeat itself unless better inter-trade regulations and decentralised consensus mechanisms are put into place. With DAO appointed regional delegates and transparent voting mechanisms the responsibilities of stewardship and consensus can be efficiently implemented. By building delegations, Lumberscout can have a significant impact on global sustainability and other environmental directives.
 
 
 
