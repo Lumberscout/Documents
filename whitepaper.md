@@ -167,7 +167,7 @@ Q2  2018 : Prototyping
 
 Q4  2018 : Launch of the LUMBER (dPoW KMD) PoS/PoW verushash blockchain 
 
-Q1  2019 : Sale of LUMBER premine
+Q1  2019 : Sale of LUMBER
 
 Q2  2019 : Development of the trading chain and platform infrastructure
 
