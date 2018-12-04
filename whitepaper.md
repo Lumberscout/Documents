@@ -22,7 +22,7 @@ Lumberscout is committed to ethical behavior and the advancement of industry by 
 
 **Tokenization of FPs**
 
-As the crypto-economy grows, so too does the demand for the tokenisation of commodities. The blockchain, much like containerised shipping, will redefine global trade. Verification at the beginning stages of the distributed ledger process requires close attention and new management as well as legal precedents. Lumberscout will implement verify and track procedures throughout the harvesting, production, transportation and manufacturing stages. By taking the first steps towards tokenising commodities, Lumberscout will connect the crypto economy with the Market of Things (MoT).
+As the crypto-economy grows, so too does the demand for the tokenisation of commodities. Distributed ledgers, much like containerised shipping, will redefine global trade. Verification at the beginning stages of the distributed ledger process requires close attention and new management as well as legal precedents. Lumberscout will implement verify and track procedures throughout the harvesting, production, transportation and manufacturing stages. By taking the first steps towards tokenising commodities, Lumberscout will connect the crypto economy with the Market of Things (MoT).
 
 
 
