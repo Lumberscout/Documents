@@ -54,7 +54,7 @@ To insure Lumberscout's environmental commitment as well as value assessment  ce
 
 
 
-**Collateral Management (risk mitigation)**
+**Collateral Management**
 
 Lumberscout will institute a collateral management system to limit loss in cases where collateral value drops below a certain threshold, the borrower must increase their collateral or the lender can call the collateral and sell it on the market. Alternatively, collateral swapping will be introduced where the lender can swap the collateral for a fee, to less volatile tokens, instead of selling.
 
@@ -100,6 +100,7 @@ Lumberscout will develop auction-like bidding functionality to provide better fr
 
 
 
+
 **Delayed Proof of Work (dPoW)**
 
 Delayed proof of work is an extra security measure to eliminate the possibility of 51% attacks. The dPoW consensus method contains two different nodes: notary nodes and ‘normal nodes’. The Komodo security service is performed by notary nodes  which  are  needed  to  record  transaction  data  to  the  Bitcoin blockchain, referred to as notarization. With this method, even a single surviving copy of the Komodo main chain will allow the entire ecosystem to overwrite and overrule any of an attacker’s attempted changes. 
@@ -121,10 +122,11 @@ Lumberscout will employ a series of blockchains to facilitate the trade of FPs. 
 
 **VerusHash Algorithm**
 
-The VerusHash algorithm -- the fastest CPU mining algorithm as of 2018 -- was developed by Michael J Toutonghi (ret. Microsoft VP) in the context of the Verus Coin project. Although it is possible to build ASIC miners for any algorithm if there is enough economic incentive, it is also possible to continuously adapt counter measures to ensure decentralised mining. VerusHash is a exceedingly CPU-friendly, quantum secure, long input  hash  function  that  uses  the  quantum  secure,  short  input  Haraka512  V2  as  its core compression algorithm.  It is fast, not due to the general purpose nature of the CPUs themselves, but from the AES-NI and AVX instruction sets, effectively an ASIC in the CPU. To augment the CPU-friendly proof of work algorithm with even more centralisation resistance, Lumberscout uses a proof of work (PoW) / proof of stake (PoS) hybrid algorithm for combined mining and staking that is immune to fluctuations in network hash rate.  This further hardens the chain against future ASICs and PoW only attacks that may be posed by  new  ASIC  systems. This  approach  will incentivise the loyalty and dedication of the pre-ASIC mining community with staking rewards while securing the network. 
+The VerusHash algorithm -- the fastest CPU mining algorithm as of 2018 -- was developed by Michael J Toutonghi (ret. Microsoft VP) in the context of the Verus Coin project. Although it is possible to build ASIC miners for any algorithm if there is enough economic incentive, it is also possible to continuously adapt counter measures to ensure decentralised mining. VerusHash is a exceedingly CPU-friendly, quantum secure, long input  hash  function  that  uses  the  quantum  secure,  short  input  Haraka512  V2  as  its core compression algorithm.  It is fast, not due to the general purpose nature of the CPUs themselves, but from the AES-NI and AVX instruction sets, effectively an ASIC in the CPU. To augment the CPU-friendly proof of work algorithm with even more centralisation resistance, Lumberscout uses a proof of work (PoW) / proof of stake (PoS) hybrid algorithm for combined mining and staking that is immune to fluctuations in network hash rate.  This further hardens the chain against future ASICs and PoW only attacks that may be posed by  new ASIC  systems. This  approach  will incentivise the loyalty and dedication of the pre-ASIC mining community with staking rewards while securing the network. 
 
 
-
+**Bridging Ethereum**
+Lumbescout's TALLY ERC20 token -- contract address: 0x9a614a75ee8afaee643109061563d6145bdd701c -- was launched on the Ethereum blockchain in Q1 of 2018. Lumberscout will continue to experiment, learn and work with the Ethereum community to facilitate atomic swaps between ERC20 and SHA256 protocols. The listing of TALLY on the ERC20 DEXs 0x, AirSwap and LedgerDEX are planned for Q1 2019.   
 
 **DAO Governance**
 
