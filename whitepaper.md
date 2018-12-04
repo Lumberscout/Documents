@@ -228,7 +228,7 @@ Paul Leddy, Technical Advisor
 
 **Further Updates**
 
-Will be posted in the following places:
+Further updates will be posted to the following:
 
 Website: https://Lumberscout.io
 
