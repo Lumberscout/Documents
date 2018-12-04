@@ -9,7 +9,7 @@
 
 **Summary of What We Are Developing**
 
-Lumberscout will use decentralized technologies to change the forest products (FP) sector; providing a safe platform for industrial producers, industrial consumers and industrial lenders to conduct business. Lumberscout’s implementation of distributed ledgers, commodity certifications, supply chain verification and efficient sales architecture will fundamentally change how FPs are financed, traded and certified. By harnessing disruptive technologies and establishing verification and governance frameworks, Lumberscout makes trustless, meritocratic consensus mechanisms possible on a global scale. 
+Lumberscout will use decentralized technologies to change the forest products (FP) sector; providing a safe platform for industrial producers, industrial consumers and industrial lenders to conduct business. Lumberscout’s implementation of distributed ledgers, commodity certifications, supply chain verification, efficient sales architecture and financing will fundamentally change how FPs are financed, traded and certified. By harnessing disruptive technologies and establishing verification and governance frameworks, Lumberscout makes trustless, meritocratic consensus mechanisms possible on a global scale. 
 
 
 
