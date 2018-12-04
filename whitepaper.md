@@ -74,7 +74,7 @@ Lumberscout bidding functionality will be expanded from industrial commodities l
 
 **Supply Chain Integration**
 
-Lumberscout will be at the forefront of integrating blockchain based logistics into the Lumberscout platform. Earlier this year Maersk shipping (the world’s largest container shipping line), announced that it was cooperating with IBM to put all of its shipping on the blockchain within two years. Similar adoptions of blockchain technology will take place in domestic trucking operations. Lumberscout will be the app that aggregates these service providers and validation nodes into one application. This will increase transparency and security for buyers, sellers and lenders.
+Lumberscout will be at the forefront of integrating blockchain based logistics into the Lumberscout platform. Earlier this year Maersk shipping (the world’s largest container shipping line), announced that it was cooperating with IBM to put all of its shipping on the blockchain within two years. Similar adoptions of blockchain technology will take place in domestic trucking operations. Lumberscout will aggregate these service providers and validation nodes. This will increase transparency and security for buyers, sellers and lenders.
 
 
 
