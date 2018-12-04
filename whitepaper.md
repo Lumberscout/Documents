@@ -87,7 +87,7 @@ Lumberscout’s bidding, personal messaging system and social-media distributed 
 
 **Implementation of Block-Chain-of-Custody (BCoC) Sustainable Forestry Standards**
 
-There are a variety of companies offering forest certifications. The problem with these companies is that they have become for-profit bureaucracies that obliquely follow their mandate. Within the context of the Lumberscout DAO, holistic approaches to sustainability are possible. Once industry consensus is reached, such certifications can be put into practice and monitored in realtime. 
+There are a variety of companies offering environmental certifications. The problem with these companies is that they have become for-profit bureaucracies that obliquely follow their mandate. Within the context of Lumberscout governance, holistic approaches to sustainability are possible. Once industry consensus is reached, such certifications can be put into practice and monitored in realtime. 
 
 
 
