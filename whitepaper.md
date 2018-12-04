@@ -119,9 +119,9 @@ Lumberscout will employ a series of blockchains to facilitate the trade of FPs. 
 
 
 
-**VerusHash Algo**
+**VerusHash Algorithm**
 
-The VerusHash algorithm, bringing near-equality between CPUs and GPUs with the fastest CPU mining algorithm in the world. The VerusPoS algorithm, allowing for a 60/40 hybrid blockchain with a 60% PoS / 40% Equihash for the proof of work component; giving LUMBER hodlers, early-adopters and small miners equal footing with larger ASIC miners -- at least in the timeframe that ASICs are not developed for the VerusHash. 
+The VerusHash algorithm brings near-equality between CPUs and GPUs with the fastest CPU mining algorithm in the world. The VerusPoS algorithm, allowing for a 60/40 hybrid blockchain with a 60% PoS / 40% Equihash for the proof of work component; giving LUMBER hodlers, early-adopters and small miners equal footing with larger ASIC miners -- at least in the timeframe that ASICs are not developed for the VerusHash or should VerusHash continue to adopt additional measures to ensure fair, decentralised mining.  
 
 
 
