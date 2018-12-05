@@ -101,11 +101,6 @@ Lumberscout will develop auction-like bidding functionality to provide better fr
 
 
 
-**Delayed Proof of Work (dPoW)**
-
-Delayed proof of work is an extra security measure to eliminate the possibility of 51% attacks. The dPoW consensus method contains two different nodes: notary nodes and ‘normal nodes’. The Komodo security service is performed by notary nodes that record  transaction  data to the Bitcoin blockchain (notarization). With this method, even a single surviving copy of the KMD parent chain will make an overwrite possible should an attacker attempt to corrupt the ledger. 
-
-
 
 **Crypto Conditions**
 
@@ -168,7 +163,7 @@ Q1 2018 : Launch of TALLY (ERC20) on the Ethereum blockchain
 
 Q2 2018 : Prototyping
 
-Q4 2018 : Launch of the LUMBER (dPoW KMD) PoS/PoW verushash blockchain 
+Q4 2018 : Launch of the LUMBER PoS/PoW verushash blockchain 
 
 Q1 2019 : Sale of LUMBER
 
@@ -187,7 +182,7 @@ Total Supply: 21,000,000 LUMBER
 
 Premine: 1,260,600
 
-Consensus Mechanism: 60% PoS / 40% dPoW 
+Consensus Mechanism: 60% PoS / 40% 
 
 Preferred Consensus Device: CPU / GPU
 
