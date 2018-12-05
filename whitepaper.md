@@ -62,7 +62,7 @@ Lumberscout will institute a collateral management system to limit loss in cases
 
 **Increasing the Liquidity of the Forest Products Sector**
 
-The FPs industry is typically cash strapped to the point that there is no extra capital to make needed investments in machinery, automation or sustainability. Especially productions in developing nations that want to modernise and become responsible producers, access to funds and basic safety equipment are sorely lacking. Small loans can mean the difference between crushing poverty and lives filled with stewardship and meaningful work. By facilitating reputation-based lending with decentralised credit ratings, consisting of data on trade performance and data feeds from service providers such as credit institutions and social media, Lumberscout will provide investors with the information they need to make knowledgeable decisions. Moreover, services such as Bloom can be used to broadcast defaults to centralised credit scores.
+The FP industry is typically cash strapped to the point that there is no extra capital to make needed investments in machinery, automation or sustainability. Especially productions in developing nations that want to modernise and become responsible producers, access to funds and basic safety equipment are sorely lacking. Small loans can mean the difference between crushing poverty and lives filled with stewardship and meaningful work. By facilitating reputation-based lending with decentralised credit ratings, consisting of data on trade performance and data feeds from service providers such as credit institutions and social media, Lumberscout will provide investors with the information they need to make knowledgeable decisions. Moreover, services such as Bloom can be used to broadcast defaults to centralised credit scores.
 
 
 **Competitive Bidding**
@@ -150,29 +150,29 @@ Q2 2016 : Idea
 
 Q3 2016 : Angel investment
 
-Q4 2016 : Start App Development
+Q4 2016 : App Development
 
-Q1 2017 : App version 1.0 released
+Q1 2017 : App version 1.0
 
 Q2 2017 : Prototyping
 
-Q3  2017 : NHLA convention Memphis, TN
+Q3 2017 : NHLA convention Memphis, TN
 
-Q3  2017 : App version 2.9.4 released
+Q3 2017 : App version 2.9.4
 
-Q3  2017 : Disrupt Berlin, Startup Alley
+Q3 2017 : Disrupt Berlin, Startup Alley
 
-Q3  2017 : Lumberscout Whitepaper
+Q3 2017 : Lumberscout Whitepaper
 
-Q1  2018 : Launch of TALLY (ERC20) on the Ethereum blockchain
+Q1 2018 : Launch of TALLY (ERC20) on the Ethereum blockchain
 
-Q2  2018 : Prototyping
+Q2 2018 : Prototyping
 
-Q4  2018 : Launch of the LUMBER (dPoW KMD) PoS/PoW verushash blockchain 
+Q4 2018 : Launch of the LUMBER (dPoW KMD) PoS/PoW verushash blockchain 
 
-Q1  2019 : Sale of LUMBER
+Q1 2019 : Sale of LUMBER
 
-Q2  2019 : Development of the trading chain and platform infrastructure
+Q2 2019 : Development of the trading chain and platform infrastructure
 
 
 
