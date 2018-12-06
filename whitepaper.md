@@ -128,7 +128,7 @@ Delayed proof of work is an extra security measure to eliminate the possibility 
 
 **Bridging Ethereum**
 
-Lumbescout's TALLY ERC20 token -- contract address: 0x9a614a75ee8afaee643109061563d6145bdd701c -- was launched on the Ethereum blockchain in Q1 of 2018. Lumberscout will continue to experiment, learn and work with the Ethereum community to facilitate atomic swaps between ERC20 and SHA256 protocols. The listing of TALLY on 0x, AirSwap and LedgerDEX are planned for Q1 2019.     
+Lumbescout's TALLY ERC20 token -- contract address: 0x9a614a75ee8afaee643109061563d6145bdd701c -- was launched on the Ethereum blockchain in Q1 of 2018. Lumberscout will continue to experiment, learn and work with the Ethereum community to facilitate atomic swaps between ERC20 - SHA256 and other protocols. The listing of TALLY on 0x, AirSwap and LedgerDEX are planned for Q1 2019.     
 
 **DAO Governance**
 
