@@ -35,7 +35,7 @@ By establishing LUMBER as a benchmark of utility within the context of Lumbersco
 
 **Market Size**
 
-FPs account for 5% of Gross World Product or 4 trillion USD in 2016. To put that number in perspective, if you spent one USD per second, it would take approximately 126,836 years to reach 4 trillion. According to U.N. statistics, 33% in the world population depends on FPs for basic sustenance. Despite the importance of FPs to the global economy, novelties continue to dominate the headlines. The fact remains: practical implementations of distributed ledgers will revolutionise commodity-based industries. Lumberscout will redefine the FPs sector.
+FPs account for 5% of Gross World Product or 4 trillion USD in 2016. To put that number in perspective, if you spent one USD per second, it would take approximately 126,836 years to reach 4 trillion. According to U.N. statistics, 33% in the world population depends on FPs for basic sustenance. Despite the importance of FPs to the global economy, novelties continue to dominate the headlines. The fact remains: practical implementations of distributed ledgers will revolutionise commodity-based industries. Lumberscout will redefine the FP sector.
 
 
 
