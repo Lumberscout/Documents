@@ -35,7 +35,7 @@ By establishing LUMBER as a benchmark of utility within the context of Lumbersco
 
 **Market Size**
 
-FPs account for 5% of Gross World Product or 4 trillion USD in 2016. To put that number in perspective, if you spent one USD per second, it would take approximately 126,836 years to reach 4 trillion. According to U.N. statistics, 33% in the world population depends on FPs for basic sustenance. Despite the importance of FPs to the global economy, novelties continue to dominate the headlines. The fact remains: practical implementations of distributed ledgers will revolutionise commodity-based industries. Lumberscout will redefine the FP sector.
+FPs account for 5% of Gross World Product or 4 trillion USD in 2016. To put that number in perspective, if you spent one USD per second, it would take approximately 126,836 years to reach 4 trillion. According to U.N. statistics, 33% in the world population depends on FPs for basic sustenance. Despite the importance of FPs to the global economy, novelties continue to dominate the headlines. The fact remains: practical implementations of distributed ledgers will revolutionise commodity-based industries. Lumberscout will redefine the FPs sector.
 
 
 
@@ -128,11 +128,11 @@ Delayed proof of work is an extra security measure to eliminate the possibility 
 
 **Bridging Ethereum**
 
-Lumbescout's TALLY ERC20 token -- contract address: 0x9a614a75ee8afaee643109061563d6145bdd701c -- was launched on the Ethereum blockchain in Q1 of 2018. Lumberscout will continue to experiment, learn and work with the Ethereum community to facilitate atomic swaps between ERC20 - SHA256 and other protocols. The listing of TALLY on 0x, AirSwap and LedgerDEX are planned for Q1 2019.     
+Lumbescout's TALLY ERC20 token -- contract address: 0x9a614a75ee8afaee643109061563d6145bdd701c -- was launched on the Ethereum blockchain in Q1 of 2018. Lumberscout will continue to experiment, learn and work with the Ethereum community to facilitate atomic swaps between ERC20 and SHA256 protocols. The listing of TALLY on 0x, AirSwap and LedgerDEX are planned for Q1 2019.     
 
 **DAO Governance**
 
-Parallel to developing better inventory visibility, sales and supply chain infrastructure, Lumberscout will implement a DAO based delegate system for global governance and the continuous evolution of industry standards and practices, such as: forestry certification, grading standardisation, collateral management and codification of internal regulations. Proper DAO governance can solve problems before they become costly disputes that end up disrupting trade. The recent softwood trade dispute between USA and Canada is one recent example that can be expected to repeat itself unless better inter-trade regulations and decentralised consensus mechanisms are put into place. With DAO appointed regional delegates and transparent voting, the responsibilities of stewardship and consensus can be efficiently implemented. By building delegations, Lumberscout can have a significant impact on global sustainability and other environmental directives.
+Parallel to developing better inventory visibility, sales and supply chain infrastructure, Lumberscout will implement a DAO based delegate system for global governance and the continuous evolution of industry standards and practices, such as: forestry certification, grading standardisation, collateral management and codification of internal regulations. In this way, Lumberscout can be thought of as a public utility. Proper DAO governance can solve problems before they become costly disputes that end up disrupting trade. The recent softwood trade dispute between USA and Canada is one recent example that can be expected to repeat itself unless better inter-trade regulations and decentralised consensus mechanisms are put into place. With DAO appointed regional delegates and transparent voting, the responsibilities of stewardship and consensus can be efficiently implemented. By building delegations, Lumberscout can have a significant impact on global sustainability and other environmental directives.
 
 
 
