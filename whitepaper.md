@@ -186,7 +186,7 @@ Q2 2019 : Development of the trading chain and platform infrastructure
 
 Total Supply: 21,000,000 LUMBER
 
-Premine: 1,260,600
+Premine: 1,260,600 LUMBER
 
 Consensus Mechanism: 60% PoS / 40% 
 
