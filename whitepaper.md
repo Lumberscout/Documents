@@ -127,7 +127,7 @@ Proof of stake improves transaction speed. Because there is "nothing at stake" i
 
 **Bridging Ethereum**
 
-Lumbescout's TALLY ERC20 token -- contract address: 0x9a614a75ee8afaee643109061563d6145bdd701c -- was launched on the Ethereum blockchain in Q1 of 2018. Lumberscout will continue to experiment, learn and work with the Ethereum community to facilitate atomic swaps between ERC20 and SHA256 protocols.  The listing of TALLY on 0x, AirSwap and LedgerDEX are planned for Q1 2019.     
+Lumbescout's TALLY ERC20 token -- contract address: 0x9a614a75ee8afaee643109061563d6145bdd701c -- was launched on the Ethereum blockchain in Q1 of 2018. Lumberscout will continue to experiment, learn and work with the Ethereum community to facilitate atomic swaps between ERC20 and SHA256 protocols. During the interim period, ownership of TALLY will be used as proof of stake in the governance model. Owners of TALLY will be recognised according to the amount of their holdings during the initial stages of development as delegates on the #DAO channel of the discord. The listing of TALLY on 0x, AirSwap and LedgerDEX are planned for Q1 2019.     
 
 **DAO Governance**
 
