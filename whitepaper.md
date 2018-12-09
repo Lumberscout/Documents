@@ -166,7 +166,7 @@ Q3 2017 : Lumberscout Whitepaper
 
 Q1 2018 : Launch of TALLY (ERC20) on the Ethereum blockchain
 
-Q2 2018 : Prototyping
+Q2 2018 : Blockchain Prototyping
 
 Q4 2018 : Launch of the LUMBER PoS/PoW verushash blockchain 
 
