@@ -123,7 +123,7 @@ The VerusHash algorithm -- the fastest CPU mining algorithm as of 2018 -- was de
 **Proof of Stake**
 
 Proof of stake has many advantages. In particular, it does not waste any significant amount of electicity. In proof of work, assuming a liquid market for computing power the cost of launching a 51% attack is equal to the cost of the computing power of the network over the course of two hours - an amount that, by standard economic principles, is roughly equal to the total sum of block rewards and transaction fees provided in two hours. In proof of stake, the threshold is much higher: 51% of the entire supply of the currency.
-Proof of stake improves transaction speed. Because there is nothing at stake in a strictly PoW blockchain, if there is an accidental fork, or a deliberate double-spend attempt, and there are two competing forks of the blockchain, then miners choose which one they contribute to and all the unnecessary drama, confusion and bad faith acting that entails.
+Proof of stake improves transaction speed. Because there is "nothing at stake" in a strictly PoW blockchain, if there is an accidental fork, or a deliberate double-spend attempt, and there are two competing forks of the blockchain, miners choose which one they contribute to. With proper management of the premine, Lumberscout eliminates this risk.
 
 **Bridging Ethereum**
 
