@@ -156,7 +156,7 @@ Q1 2017 : App version 1.0
 
 Q2 2017 : Prototyping
 
-Q3 2017 : NHLA convention Memphis, TN
+Q3 2017 : National Hardwood Lumber Association (NHLA) convention Memphis, TN
 
 Q3 2017 : App version 2.9.4
 
