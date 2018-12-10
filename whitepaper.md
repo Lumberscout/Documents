@@ -138,7 +138,7 @@ Building on the vision of Vitalik Buterin, founder of Ethereum, Lumberscout will
 
 **Project Funding & Premine**
 
-To fund development and early exchange activity, 6% of total supply or 1,260,600 LUMBER was premined. Some or all of this amount will be offered for sale to raise funds for the project. Early expenditures are necessary to build the trading chain, create intuitive user interfaces, marketing, verification training, legal codification of tokenised ownership, establishment of certification processes, DAO voting mechanisms, et al.    
+To fund development and early exchange activity, 6% of total supply or 1,260,600 LUMBER was premined. Because LUMBER is 60% PoS most of the funds will be put into foundation addresses to secure the network against 51% attacks. As rewards accrue for staking and mining, these will be offered for sale. Early expenditures are necessary to build the trading chain, create intuitive user interfaces, marketing, verification training, legal codification of tokenised ownership, establishment of certification processes, DAO voting mechanisms, et al.    
 
 
 
