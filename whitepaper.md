@@ -239,7 +239,7 @@ White Paper: https://github.com/Lumberscout/Documents/blob/master/whitepaper.md
 
 Reddit: https://www.reddit.com/r/Lumberscout/
 
-YouTube: https://www.youtube.com/channel/UCk7dpb5PZ8UzmXGfvx6nSvQ/videos
+YouTube: https://www.youtube.com/watch?v=tpZNQBl8fEw
 
 Discord: https://discord.gg/hyk3v4h
 
