@@ -244,3 +244,5 @@ YouTube: https://www.youtube.com/watch?v=tpZNQBl8fEw
 Discord: https://discord.gg/hyk3v4h
 
 Twitter: https://twitter.com/LumberscoutCom
+
+Instagram: lumberscoutcom
