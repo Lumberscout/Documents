@@ -169,7 +169,7 @@ Q2 2018 : Blockchain Prototyping
 
 Q1 2019 : Mainnet launch of the LUMBER PoS/PoW verushash blockchain
 
-Q2 2019 : Development of LUMBER cryptoconditions for trading applications
+Q2 2019 : Development of LUMBER cryptoconditions for industry, trading & insurance applications
 
 
 
