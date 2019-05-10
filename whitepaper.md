@@ -208,18 +208,6 @@ Developers and members of the community are encouraged to connect with us on Tel
 
 
 
-**The Team**
-
-James Tyson, Advisor
-
-Damon Graf, Advisor
-
-Karvin Vallandi, Consultant
-
-Paul Leddy, Technical Advisor
-
-
-
 
 
 **Further Updates**
