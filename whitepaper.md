@@ -167,11 +167,9 @@ Q1 2018 : Launch of TALLY (ERC20) on the Ethereum blockchain
 
 Q2 2018 : Blockchain Prototyping
 
-Q4 2018 : Launch of the LUMBER PoS/PoW verushash blockchain 
+Q1 2019 : Mainnet launch of the LUMBER PoS/PoW verushash blockchain
 
-Q1 2019 : Sale of LUMBER
-
-Q2 2019 : Development of the trading chain and platform infrastructure
+Q2 2019 : Development of LUMBER cryptoconditions for trading applications
 
 
 
@@ -202,10 +200,6 @@ Launch date: To be announced
 
 
 
-
-**Token Sale Entity**
-
-Tammetoru Kaubandus OÜ - Reg: 12264023 - Narva mnt 5, Tallinn 10117, Estonia.
 
 Questions & assistance: info@lumberscout.com
 
